@@ -23,3 +23,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+I've successfully launched an Azure Cloud Shell, created a resource group and the virtual machine. I install the web server and view the web server.
