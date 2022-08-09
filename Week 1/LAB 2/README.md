@@ -18,3 +18,10 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+After several practice, I can now create REsource group and also create a vm  seamlessly without stress.
+I connected the resource group with vm using git bash.
+I now undeerstand vm images are more like the operating system you want to run on the server,and they are of various types such as ubuntu server, suse enterprise, Debian, oracle linux and lot more.
+The power states is the various state of the vm, which are...starting, running, stop etc.
+ I created and managed directories on my server.
